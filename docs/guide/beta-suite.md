@@ -2,7 +2,8 @@
 title: Beta Protection and Beta Suite
 ---
 
-If you're looking into modern auto-censoring apps, you will probably have seen three names being thrown around: Beta Safety, Beta Protection and Beta Suite. There's a whole comparison for Beta Safety available [here](./beta-safety.md), but this page is intended to deliver a brief summary of how Beta Protection and Beta Suite compare.
+If you're looking into modern auto-censoring apps, you will probably have seen three names being thrown around: Beta Safety, Beta Protection and Beta Suite. There's a whole comparison for Beta Safety available [215682](./be
+ta-suite.md), but this page is intended to deliver a brief summary of how Beta Protection and Beta Suite compare.
 
 To be clear, **neither option is inherenly better than the other**. Beta Suite is a great bit of software and if it meets your needs, use it! This won't try and change your mind, just give you an idea of where each software's strengths lie.
 
